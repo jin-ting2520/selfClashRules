@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [],
+      "domain_suffix": [
+        "122520.xyz",
+        "googleapis.cn",
+        "xn--ngstr-lra8j.com",
+        "ingest.sentry.io",
+        "lz-cdn10.com",
+        "netflixgc.com",
+        "supportxmr.com",
+        "minexmr.com",
+        "cloudflare.com",
+        "lige.fit",
+        "cainisi.cf",
+        "magiskdelta.net",
+        "qinglong.online",
+        "giffgaff.com",
+        "cainisi.cf",
+        "cainisi.cf",
+      ],
+      "process_name": [
+        "HLDDZ3D",
+        "Jantama_MahjongSoul"
+      ]
+    }
+  ]
+}
