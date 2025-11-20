@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,ai.com
 
 # 内容：Gemini
+DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
@@ -38,6 +39,8 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+
 
 #claude
 DOMAIN-KEYWORD,claude
